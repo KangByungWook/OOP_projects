@@ -1,6 +1,7 @@
 // 포인트: stl 사용하지 않고 퀵소트를 클래스인스턴스 sorting에 적용
 
 
+
 #include <iostream>
 #include <fstream>
 #include <string>
